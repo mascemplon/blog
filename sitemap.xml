@@ -9,7 +9,38 @@
 
 <url>
   <loc>https://mascemplon.github.io/blog/</loc>
-  <lastmod>2021-01-07T08:43:43+00:00</lastmod>
+  <lastmod>2021-01-07T13:44:27+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://mascemplon.github.io/blog/post/edukasi.html</loc>
+  <lastmod>2021-01-07T13:44:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mascemplon.github.io/blog/post/kesehatan.html</loc>
+  <lastmod>2021-01-07T13:44:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mascemplon.github.io/blog/post/contact%20us.html</loc>
+  <lastmod>2021-01-07T13:44:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mascemplon.github.io/blog/post/privacypolicy.html</loc>
+  <lastmod>2021-01-07T13:44:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mascemplon.github.io/blog/post/disclaimer.html</loc>
+  <lastmod>2021-01-07T13:44:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mascemplon.github.io/blog/post/sitemap.html</loc>
+  <lastmod>2021-01-07T13:44:27+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
