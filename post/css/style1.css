@@ -33,6 +33,9 @@ svg.line .svg-c{fill:none;stroke:var(--link-color)}
 .full-close{display:block;position:fixed;top:0;left:0;width:100%;height:100%;z-index:2;-webkit-transition:all .2s ease-in;transition:all .2s ease-in;background:transparent;opacity:0;visibility:hidden}
 /* Scrollbar Custom */
 html, #nav-widget, .Blog pre, .Blog pre code{scrollbar-width:thin}
+
+
+
 /* Main Content */
 html{scroll-behavior:smooth;overflow-x:hidden}
 body{position:relative;margin:0;padding:0;width:100%;font-family:var(--font-body);font-size:14px;color:var(--text-color);background-color:#f7f9f8;}
