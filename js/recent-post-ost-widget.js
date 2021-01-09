@@ -63,7 +63,7 @@ function tampilkanrecentpostost(_0xef67x8) {
 
 
 
-var tampilkanpost = 5;
+var tampilkanpost = 10;
 document.write("<script src=https://mascemplon-github-io.blogspot.com\/feeds\/posts\/default/-/artikel?orderby=published&alt=json-in-script&callback=tampilkanrecentpostost><\/script>");
 
 
