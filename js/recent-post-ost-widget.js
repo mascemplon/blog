@@ -64,7 +64,7 @@ function tampilkanrecentpostost(_0xef67x8) {
 
 
 var tampilkanpost = 5;
-document.write("<script src=https://postkomik.blogspot.com\/feeds\/posts\/default/-/Series?orderby=published&alt=json-in-script&callback=tampilkanrecentpostost><\/script>");
+document.write("<script src=https://mascemplon-github-io.blogspot.com\/feeds\/posts\/default/-/artikel?orderby=published&alt=json-in-script&callback=tampilkanrecentpostost><\/script>");
 
 
  
