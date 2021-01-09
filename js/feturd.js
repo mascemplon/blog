@@ -1,9 +1,9 @@
-var showgambarpost = true;
+var showgambarpost = false;
 var readmorelink = true;
 var showkomentar = false;
-var showreleasedate = true;
+var showreleasedate = false;
 var showkonten = true;
-var summarychars = 200;
+var summarychars = 0;
 
 function tampilkanrecentpostost(_0xef67x8) {
     document.write('<ul class="request-post">');
